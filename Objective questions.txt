@@ -1,0 +1,22 @@
+What is the size of the school?
+What is the location of the school, rural or urban?
+What is the student-to-faculty ratio, and how large are the class sizes?
+What is the tuition cost, and what financial aid options are available?
+Does the school offer a computer science major？
+What is the college's retention rate, and how many students complete their degrees?
+How many students are there?
+What is the university's overall ranking among national universities?
+How many residence halls or dorms does the school have?
+How many dining halls or cafeterias are available for students on campus?
+What percentage of incoming freshmen receive scholarships?
+What is the reported campus crime rate per year by the school's police department?
+What is the average starting salary for students who graduate with a Bachelor’s degree?
+How many student organizations and clubs does the school have?
+How to get access to the college’s wifi?
+What is the most recent year's acceptance rate for incoming freshmen?
+What is the volume of the university's library collection?
+What is the proportion of Asian students in the total number of students?
+What are the school's wireless network coverage and stability metrics?
+How many free or low-cost campus transportation options does the school offer?
+Which majors of this school are better known?
+Does the school offer any job connections with any company? [you may not find a good answer]
